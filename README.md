@@ -15,6 +15,7 @@
 ────────────────────────────────────────
 
 </div>
+<div align="center">
 
 ## 🌿 About This Repository
 Welcome to my **Read Me Activities Repository!** ♡ This space is dedicated to showcasing my progress and final outputs for our module. Below is a complete overview of my three main activities, focusing on effective layouts, cohesive brand identity, and meaningful social media advocacy. No extra setup required—just click the folders to explore!
