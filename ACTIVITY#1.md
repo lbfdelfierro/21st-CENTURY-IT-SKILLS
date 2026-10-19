@@ -2,8 +2,13 @@
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <td bgcolor="#E4ECE0" align="center" style="padding: 30px; border-radius: 15px 15px 0 0;">
-      <h1 style="color: #2e4c23; margin-bottom: 5px;">🍵 Activity 1: Presentation Design Principles ✨</h1><img width="784" height="1109" alt="IMG_0915" src="https://github.com/user-attachments/assets/5e25a6a3-6cc5-4d3e-80dc-3db39d67bcfb" />
+      <h1 style="color: #2e4c23; margin-bottom: 5px;">🍵 Activity 1: Presentation Design Principles ✨</h1>
+<a href="ACTIVITY%20%231%20-%20GE%204120%20-%20DEL%20FIERRO.png">
+  📄 View Activity 1 →
+</a>
 
+<br>
+<br>
     
   </tr>
   <tr>
