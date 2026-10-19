@@ -23,8 +23,8 @@ Welcome to my **Read Me Activities Repository!** ♡ This space is dedicated to 
 
 <div align="center">
 
-<a href="https://github.com/lbfdelfierro/Pre-Lim-Exam/blob/main/ACTIVITY%231.md">
-### 📁 Activity 01
+<a href="https://github.com/lbfdelfierro/21st-CENTURY-IT-SKILLS/blob/21st-CENTURY-IT-SKILLS/ACTIVITY%231.md">
+📁 Activity 01
   </a>
 
 <br>
@@ -46,8 +46,8 @@ Learning the fundamental principles of creating presentations that are **organiz
 
 <br>
 
-<a href="https://github.com/lbfdelfierro/Pre-Lim-Exam/blob/main/ACTIVITY%232.md">
-### 📁 Activity 02
+<a href="https://github.com/lbfdelfierro/21st-CENTURY-IT-SKILLS/blob/21st-CENTURY-IT-SKILLS/ACTIVITY%232.md">
+📁 Activity 02
   </a>
 
 <br>
@@ -69,8 +69,8 @@ Exploring how **colors and typography** work together to create a consistent vis
 
 <br>
 
-<a href="https://github.com/lbfdelfierro/Pre-Lim-Exam/blob/main/ACTIVITY%233.md">
-### 📁 Activity 03
+<a href="https://github.com/lbfdelfierro/21st-CENTURY-IT-SKILLS/blob/21st-CENTURY-IT-SKILLS/ACTIVITY%233.md">
+📁 Activity 03
   </a>
 
 <br>
