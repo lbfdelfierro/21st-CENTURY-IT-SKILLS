@@ -2,7 +2,12 @@
   <tr>
     <td bgcolor="#E4ECE0" align="center" style="padding: 30px; border-radius: 15px 15px 0 0;">
       <h1 style="color: #2e4c23; margin-bottom: 5px;">🍵 Activity 3: Social Media Infographics & Documentation ✨</h1>
-    </td><img width="1100" height="2750" alt="Infographic_DELFIERRO" src="https://github.com/user-attachments/assets/1667d3ad-700f-4d3d-a0a7-9227b980a2a3" />
+    <a href="ACTIVITY%20%233%20-%20Infographic_DELFIERRO.jpg">
+  📄 View ACTIVITY #3 →
+</a>
+
+<br>
+<br>
 
   </tr>
   <tr>
