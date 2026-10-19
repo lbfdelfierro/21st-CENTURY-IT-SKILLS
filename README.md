@@ -115,4 +115,27 @@ Google Meet & Google Forms Exploring the features and practical applications of 
 
 </div>
 
+<div align="center">
+
+─────────────────────────
+
+<br>
+
 </div>
+<a href="https://drive.google.com/drive/u/1/folders/1IXIlKtJt6_dnVHg5CTUSmA2YlJ8jNbfe">
+📁 Laboratory Examination
+  </a>
+
+<br>
+<br>
+
+  **Focus Areas**
+<br>🍃 Google Drive
+<br>🍃 Google Sheets
+<br>🍃 Google Docs
+
+</div>
+
+<div align="center">
+
+─────────────────────────
