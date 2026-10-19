@@ -23,6 +23,10 @@ Welcome to my **Read Me Activities Repository!** ♡ This space is dedicated to 
 
 <div align="center">
 
+─────────────────────────
+
+<div align="center">
+
 <a href="https://github.com/lbfdelfierro/21st-CENTURY-IT-SKILLS/blob/21st-CENTURY-IT-SKILLS/ACTIVITY%231.md">
 📁 Activity 01
   </a>
@@ -85,5 +89,29 @@ Applying design principles to create **engaging infographics** while documenting
 <br>🌱 Layout & Composition
 <br>🌱 Project Documentation
 <br>🌱 Reflection
+
+<div align="center">
+
+─────────────────────────
+
+<br>
+
+<a href="https://github.com/lbfdelfierro/21st-CENTURY-IT-SKILLS/blob/21st-CENTURY-IT-SKILLS/ACTIVITY%20%234.md">
+📁 Activity 04
+  </a>
+
+<br>
+<br>
+Google Meet & Google Forms Exploring the features and practical applications of **Google Meet and Google Forms** to improve virtual communication, collaboration, and data collection.
+
+**Focus Areas**
+<br>🌱 Video Conferencing
+<br>🌱 Virtual Collaboration
+<br>🌱 Survey Creation
+<br>🌱 Data Collection
+<br>🌱 Digital Productivity
+<br>🌱 Reflection
+
+</div>
 
 </div>
