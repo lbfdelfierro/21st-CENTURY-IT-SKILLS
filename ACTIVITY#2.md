@@ -3,6 +3,25 @@
     <td bgcolor="#E4ECE0" align="center" style="padding: 30px; border-radius: 15px 15px 0 0;">
       <h1 style="color: #2e4c23; margin-bottom: 5px;">🍵 Activity 2: Color Palette & Typography ✨</h1>
     </td>
+    <a href="ACTIVITY%20%232%20-%20Del%20Fierro.%20(1).jpg">
+  | 📄 View LOGO →
+
+  </tr>
+  <tr>
+    <a href="ACTIVITY%20%232%20-%20Del%20Fierro..jpg">
+  | 📄 View TAG LINE →
+
+  </tr>
+  <tr>
+   <a href="ACTIVITY%20%232%20-%20Del%20Fierro.%20(2).jpg">
+  | 📄 View COLORS & TYPOGRAPHY →
+
+  </tr>
+  <tr> 
+
+  <a href="ACTIVITY%20%232%20-%20Del%20Fierro.%20(3).jpg">
+  | 📄 View BUSINESS CARD LAYOUT →
+
   </tr>
   <tr>
     <td bgcolor="#CCFDA9" style="padding: 25px;">
@@ -32,11 +51,6 @@
         <li><b>The Color Palette:</b> I pulled these shades straight from the oven! The palette features <b>Dark Red (#531f17)</b>, <b>Gray Orange (#ba5c28)</b>, <b>Brown (#a2446)</b>, and <b>Orange (#e79f6f)</b>. These colors directly mimic the baking process—from the dark, rich cinnamon spice to the warm, golden-brown dough. It creates an appetizing, cozy vibe that instantly communicates what the brand is selling.</li>
         <li><b>The Typography:</b> I selected two playful, handwritten-style fonts: <b>Marykate</b> and <b>Sweet & Salty</b>. Standard corporate fonts felt way too boring and rigid for a bakery. These specific fonts look genuinely handcrafted, which perfectly matches the home baker energy. They are super friendly and visually interesting, but still clean enough to be easily readable on a small business card!</li>
      
- </td>    <img width="960" height="540" alt="Activity #2 - Del Fierro - 1" src="https://github.com/user-attachments/assets/61fc6f47-ddd9-462e-b564-615b03f3fe02" />
- </td>    <img width="960" height="540" alt="Activity #2 - Del Fierro - 2" src="https://github.com/user-attachments/assets/bd30aa53-c2d2-4e38-b03d-dd687f371eee" />
- </td>    <img width="960" height="540" alt="Activity #2 - Del Fierro - 3" src="https://github.com/user-attachments/assets/bd2970e3-9711-48bf-b52f-0224444ad50b" />
- </td>    <img width="960" height="540" alt="Activity #2 - Del Fierro - 4" src="https://github.com/user-attachments/assets/4dcaf017-d065-4014-93e6-2a4487ecc441" />
-
  
       
   </tr>
