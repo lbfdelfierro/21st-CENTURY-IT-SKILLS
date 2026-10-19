@@ -4,8 +4,11 @@
   <tr>
     <td bgcolor="#E4ECE0" align="center" style="padding: 30px; border-radius: 15px 15px 0 0;">
       <h1 style="color: #2e4c23; margin-bottom: 5px;">🍵 Activity 2: Color Palette & Typography ✨</h1>
-    </td>
-    <a href="ACTIVITY%20%232%20-%20Del%20Fierro.%20(1).jpg">
+          
+  </tr>
+</table>
+
+  <a href="ACTIVITY%20%232%20-%20Del%20Fierro.%20(1).jpg">
   | 📄 View LOGO → |
 </p>
  </tr>
@@ -29,8 +32,13 @@
 
   <a href="ACTIVITY%20%232%20-%20Del%20Fierro.%20(3).jpg">
   | 📄 View BUSINESS CARD LAYOUT → |
+</div>
 
-  </tr>
+<br>
+<hr>
+  
+  
+<table width="100%" style="border-collapse: collapse;">
   <tr>
     <td bgcolor="#CCFDA9" style="padding: 25px;">
       <h2 style="color: #2e4c23;">🤍 What I Created & The Concept</h2>
