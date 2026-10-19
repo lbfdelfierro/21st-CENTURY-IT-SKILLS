@@ -23,8 +23,13 @@ Welcome to my **Read Me Activities Repository!** ♡ This space is dedicated to 
 
 <div align="center">
 
+<a href="https://github.com/lbfdelfierro/Pre-Lim-Exam/blob/main/ACTIVITY%231.md">
 ### 📁 Activity 01
-#### Presentation Design Principles
+  </a>
+
+<br>
+<br>
+ Presentation Design Principles
 Learning the fundamental principles of creating presentations that are **organized, visually appealing, readable, and effective.**
 
 **Focus Areas**
@@ -41,8 +46,13 @@ Learning the fundamental principles of creating presentations that are **organiz
 
 <br>
 
+<a href="https://github.com/lbfdelfierro/Pre-Lim-Exam/blob/main/ACTIVITY%232.md">
 ### 📁 Activity 02
-#### Color Palette & Typography
+  </a>
+
+<br>
+<br>
+ Color Palette & Typography
 Exploring how **colors and typography** work together to create a consistent visual identity and improve communication.
 
 **Focus Areas**
@@ -59,8 +69,13 @@ Exploring how **colors and typography** work together to create a consistent vis
 
 <br>
 
+<a href="https://github.com/lbfdelfierro/Pre-Lim-Exam/blob/main/ACTIVITY%233.md">
 ### 📁 Activity 03
-#### Social Media Infographics & Mini Project
+  </a>
+
+<br>
+<br>
+ Social Media Infographics & Mini Project
 Applying design principles to create **engaging infographics** while documenting the process and development of a mini project.
 
 **Focus Areas**
