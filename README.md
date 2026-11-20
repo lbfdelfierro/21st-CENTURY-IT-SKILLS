@@ -48,13 +48,13 @@ Each activity has its own README file containing the activity description, outpu
 
 | Activity | Topic | Activity Documentation | Actual Output |
 |---|---|---|---|
-| **Activity 1** | Presentation Design Principles | [Read Activity 1](Activity-01/README.md) | [Coffee For All Poster](Activity-01/images/activity-01-coffee-for-all-poster.png) |
-| **Activity 2** | Color Palette and Typography | [Read Activity 2](Activity-02/README.md) | [Main Logo](Activity-02/images/louies-cinnamon-rolls-logo.jpg) · [Logo Variation](Activity-02/images/brand-logo-variation.jpg) · [Color Palette and Typography](Activity-02/images/color-palette-typography.jpg) · [Business Card](Activity-02/images/business-card.jpg) |
-| **Activity 3** | Social Media Infographics and Documentation | [Read Activity 3](Activity-03/README.md) | [SafeLine PH Infographic](Activity-03/images/safeline-ph-infographic.jpg) |
-| **Activity 4** | Google Meet and Google Forms | [Read Activity 4](Activity-04/README.md) | [Group Presentation](Activity-04/documents/google-meet-and-google-forms-presentation.pdf) · [Quiz Scores](Activity-04/documents/google-forms-quiz-scores.pdf) |
-| **Activity 5** | AI Tools – Prompt Improvement | [Read Activity 5](Activity-05/README.md) | [Activity 5 Report](Activity-05/documents/activity-05-ai-prompt-improvement.pdf) |
-| **Activity 6** | Making a Website | [Read Activity 6](Activity-06/README.md) | [Activity 6 Documentation](Activity-06/documents/activity-06-website-development.pdf) · [Visit Website](https://canva.link/9tmmo61hp6o4opx) |
-| **Activity 7** | Resume Generation | [Read Activity 7](Activity-07/README.md) | [Activity 7 Documentation](Activity-07/documents/activity-07-resume-generation.pdf) |
+| **Activity 1** | Presentation Design Principles | [Read Activity 1](Activity-01/Activity-01/README.md) | [Coffee For All Poster](https://github.com/lbfdelfierro/21st-CENTURY-IT-SKILLS/blob/21st-CENTURY-IT-SKILLS/ACTIVITY%20%231%20-%20GE%204120%20-%20DEL%20FIERRO.png) |
+| **Activity 2** | Color Palette and Typography | [Read Activity 2](Activity-01/Activity-01/Activity-02/README.md) | [Main Logo](Activity-02/images/louies-cinnamon-rolls-logo.jpg) · [Logo Variation](Activity-02/images/brand-logo-variation.jpg) · [Color Palette and Typography](Activity-02/images/color-palette-typography.jpg) · [Business Card](Activity-02/images/business-card.jpg) |
+| **Activity 3** | Social Media Infographics and Documentation | [Read Activity 3](Activity-01/Activity-01/Activity-02/Activity-03/README.md) | [SafeLine PH Infographic](https://github.com/lbfdelfierro/21st-CENTURY-IT-SKILLS/blob/21st-CENTURY-IT-SKILLS/ACTIVITY%20%233%20-%20Infographic_DELFIERRO.jpg) |
+| **Activity 4** | Google Meet and Google Forms | [Read Activity 4](Activity-01/Activity-01/Activity-02/Activity-03/Activity-04/README.md) | [Group Presentation](https://github.com/lbfdelfierro/21st-CENTURY-IT-SKILLS/blob/21st-CENTURY-IT-SKILLS/ACTIVITY%20%234.md) · [Quiz Scores](Activity-04/documents/google-forms-quiz-scores.pdf) |
+| **Activity 5** | AI Tools – Prompt Improvement | [Read Activity 5](Activity-01/Activity-01/Activity-02/Activity-03/Activity-04/Activity-05/README.md) | [Activity 5 Report](https://github.com/lbfdelfierro/21st-CENTURY-IT-SKILLS/blob/21st-CENTURY-IT-SKILLS/Activity%205_Del%20Fierro.pdf) |
+| **Activity 6** | Making a Website | [Read Activity 6](Activity-01/Activity-01/Activity-02/Activity-03/Activity-04/Activity-05/Activity-06/README.md) | [Activity 6 Documentation](DELFIERRO_ACTIVITY6.pdf) · [Visit Website](https://canva.link/9tmmo61hp6o4opx) |
+| **Activity 7** | Resume Generation | [Read Activity 7](Activity-01/Activity-01/Activity-02/Activity-03/Activity-04/Activity-05/Activity-06/Activity-07/README.md) | [Activity 7 Documentation](DELFIERRO_ACTIVITY7.pdf) |
 
 ---
 
