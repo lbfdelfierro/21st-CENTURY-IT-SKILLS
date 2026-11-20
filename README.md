@@ -63,7 +63,7 @@ Each activity has its own README file containing the activity description, outpu
 | Resource | Description | Link |
 |---|---|---|
 | **Midterm / Laboratory Examination** | Shared folder containing the examination and laboratory materials | [Open Google Drive Folder](https://drive.google.com/drive/u/1/folders/1IXIlKtJt6_dnVHg5CTUSmA2YlJ8jNbfe) |
-| **Group 4 Presentation** | Google Meet and Google Forms presentation | [View Presentation PDF](Activity-04/documents/google-meet-and-google-forms-presentation.pdf) |
+| **Group 4 Presentation** | Google Meet and Google Forms presentation | [View Presentation PDF](https://github.com/lbfdelfierro/21st-CENTURY-IT-SKILLS/blob/21st-CENTURY-IT-SKILLS/GROUP-4-FORMS-AND-MEET-PPT.pdf) |
 | **Google Forms Quiz** | Online quiz used in the group activity | [Open Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSfperDHgiW2recV86enfxMl6Lav0aZCxHtS3fycjsJGuVEPvw/viewform?usp=sharing&ouid=118413879498339873868) |
 | **Google Forms Quiz Scores** | Consolidated quiz results, included with permission | [View Scores PDF](https://github.com/lbfdelfierro/21st-CENTURY-IT-SKILLS/blob/21st-CENTURY-IT-SKILLS/GE-4120-_-G4_Quiz.pdf) |
 | **Louie's Cinnamon Rolls Website** | Website developed for Activity 6 | [Visit Website](https://canva.link/9tmmo61hp6o4opx) |
