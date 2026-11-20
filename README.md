@@ -44,7 +44,7 @@ This repository serves as my digital learning portfolio for **GE 4120 – 21st C
 
 | Activity | Description | Links |
 |---|---|---|
-| **Activity 1** | Presentation Design Principles – Coffee For All | [README](Activity-01/README.md) · [Poster](Activity-01/images/activity-01-coffee-for-all-poster.png) |
+| **Activity 1** | Presentation Design Principles – Coffee For All | [README](Activity-01/Activity-01/README.md) · [Poster](Activity-01/images/activity-01-coffee-for-all-poster.png) |
 | **Activity 2** | Color Palette and Typography – Louie's Cinnamon Rolls | [README](Activity-02/README.md) · [Logo](Activity-02/images/louies-cinnamon-rolls-logo.jpg) · [Business Card](Activity-02/images/business-card.jpg) |
 | **Activity 3** | Social Media Infographic – SafeLine PH | [README](Activity-03/README.md) · [Infographic](Activity-03/images/safeline-ph-infographic.jpg) |
 | **Activity 4** | Google Meet and Google Forms | [README](Activity-04/README.md) · [Presentation](Activity-04/documents/google-meet-and-google-forms-presentation.pdf) · [Quiz Scores](Activity-04/documents/google-forms-quiz-scores.pdf) |
